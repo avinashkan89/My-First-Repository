@@ -1,1 +1,8 @@
 Welcome to git repository
+
+
+This is a receipe text file
+
+receipe 1
+receipe 2
+receipe 3
